@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    background: white;
+    text-align: center;
+}
+.content{
+    background: black;
+    height: 100%;
+    width: 25%;
+    margin-left: 550px;
+    margin-top: 150px;
+}
+h1{
+    color: rgb(255, 255, 255);
+    margin: 20px;
+    font-weight: bold;
+    
+}
+form {
+    height: 80px;
+}
+.result{
+    height: 45px;
+    width:230px;
+    border-radius: 15px;
+    border: 0;
+    outline: 0;
+    text-align: end;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 9px;
+
+}
+.button{
+    border: none;
+    border-radius: 10px;
+    height: 50px;
+    width: 50px;
+    background: grey;
+    color:white;
+    margin: 5px;
+    font-size: 15px;
+    text-align: center;
+    cursor: pointer;
+}
+.side{
+    background-color: orange;
+    color: black;
+    border-radius: 50%;
+    font-weight: bold;
+}
